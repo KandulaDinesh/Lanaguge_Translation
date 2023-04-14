@@ -1,0 +1,53 @@
+body {
+    background-color: #1c1c1c;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.title {
+    font-size: 36px;
+}
+
+.input-field {
+    width: 500px;
+    height: 60px;
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.dropdown {
+    width: 500px;
+    height: 60px;
+    font-size: 18px;
+    margin-top: 30px;
+    background-color: #1c1c1c;
+    color: white;
+}
+
+.translate-btn {
+    width: 200px;
+    height: 60px;
+    font-size: 22px;
+    margin-top: 30px;
+    background-color: #ff3b3f;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.output-text {
+    font-size: 18px;
+    margin-top: 30px;
+    max-width: 700px;
+    word-wrap: break-word;
+    margin-left: auto;
+    margin-right: auto;
+}
